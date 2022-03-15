@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="50%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Farticles%2Fif-you-are-looking-to-learn-how-to-code-in-2020-you-need-to-check-out-this-training&psig=AOvVaw1KxdJODg3_M2M6uD-fr4sA&ust=1647418783488000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjb877Xx_YCFQAAAAAdAAAAABAD" />
+<img width="50%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Farticles%2Fif-you-are-looking-to-learn-how-to-code-in-2020-you-need-to-check-out-this-training&psig=AOvVaw1KxdJODg3_M2M6uD-fr4sA&ust=1647418783488000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjb877Xx_YCFQAAAAAdAAAAABAD"/>
 
 
 - 🔭 Intrigued to learn new technologies in Web Development.
