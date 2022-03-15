@@ -10,7 +10,7 @@
 
 <h2> About Me </h2>
 
-<img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ign.com%2Farticles%2Fif-you-are-looking-to-learn-how-to-code-in-2020-you-need-to-check-out-this-training&psig=AOvVaw1KxdJODg3_M2M6uD-fr4sA&ust=1647418783488000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjb877Xx_YCFQAAAAAdAAAAABAD" />
 
 
 - 🔭 Intrigued to learn new technologies in Web Development.
@@ -19,7 +19,7 @@
 
 - 💞️ I like to watch tech. videos and playing video games more often.
 
-- 💬 Have a look at my [portfolio](https://dev-hardik.netlify.app/).
+- 💬 Have a look at my [portfolio](https://app.netlify.com/teams/msharma0077865555/).
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://github.com/msharmasharma?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
