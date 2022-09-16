@@ -4,6 +4,7 @@
 
 <div size='20px'> Hi! I am Madhusudan Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
 Bachelor of computer application from Amity University. Willing to learn and work across technologies and domains.
+I like to challenge myself to discover new boundaries. If you find anything of value in my projects or for suggesting some improvements, please give a shout out.
 </div>
 
 <h2> About Me </h2>
